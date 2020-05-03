@@ -26,7 +26,12 @@ This code will call the **/goal_tool_control** service and use it to control the
 
 ## YouTube Links
 The following links will provide video of the Open Manipulator-X being used in both hardware and simulation using service calls and the open_manipulator_controller package.  
-*Links pending*  
+
+###### Open Manipulator-X. ROS. Service Calls. Implementation on physical hardware.  
+https://www.youtube.com/watch?v=8JTLWg_CjYg  
+
+###### Open Manipulator-X. ROS. Gazebo. Service Calls. Example implementation.  
+https://www.youtube.com/watch?v=IuSqCRb4uYA&t=36s  
 
 ## Execution
 ###### Simulation with Gazebo
